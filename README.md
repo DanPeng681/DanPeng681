@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DanPeng681
+- 👋 Hi, I’m Dan Peng
 - 👀 I’m interested in data science and programming
 - 🌱 I’m currently learning management sciense & technology
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email:pengdan681@gmail.com
+- 📫 How to reach me email: pengdan681@gmail.com
 - 😄 Pronouns: she
 - ⚡ Fun fact: ...
 
